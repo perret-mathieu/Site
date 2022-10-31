@@ -399,6 +399,7 @@ a {
   background: var(--clr-accent-300);
   color: #fff;
   text-align: center;
+  margin-top: 50px;
 }
 
 .footer-container{
