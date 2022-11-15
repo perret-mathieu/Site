@@ -33,7 +33,7 @@ var counter = 1;
       mm = String(today.getMonth() + 1).padStart(2, "0"),
       yyyy = today.getFullYear(),
       nextYear = yyyy + 1,
-      dayMonth = "11/11/",
+      dayMonth = "01/08/",
       Holiday = dayMonth + yyyy;
   
   today = mm + "/" + dd + "/" + yyyy;
